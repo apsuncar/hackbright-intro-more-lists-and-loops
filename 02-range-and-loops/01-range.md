@@ -29,8 +29,10 @@
 Make sure you have pushed your lists exercises before making any commits on GitHub, otherwise you will have to make a merge commit later.*
 
 1. What does `range` do with a single argument?
-  * [Your answer here]
+  * list all numbers from 0 to the argument, but not including the argument itself
 2. What do the arguments mean if there are 2?
-  * [Your answer here]
+  * list all numbers starting with the first argument to the last argument, but not including the second argument
 3. What does the third argument mean?
-  * [Your answer here]
+  * for positive #, it gives you the increment of the third argument
+  * for negative #s, same results inreverse order
+  * 
